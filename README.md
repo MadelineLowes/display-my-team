@@ -16,8 +16,8 @@ This application is build using Node.js and runs in the command-line. It is inte
 ## Installation 
 View the video walkthrough download attached below. Steps: follow the link below to my GitHub repository, click the green button labelled "code" and copy the link using SSH key or HTTPS. In an application like VS Code, open your terminal and type "git clone the-link-you-copied", then enter the cloned folder display-my-team. In the terminal again, type "npm init -y". You should now be ready to begin using my application.
 
-GitHub repo link: https://github.com/MadelineLowes/display-my-team/
-Walkthrough Video link (downloads the video to your computer): https://drive.google.com/uc?id=1Ks4YAeSzi5gJHRMcHKoQC3nEO1yc_w4n&export=download
+- GitHub repo link: https://github.com/MadelineLowes/display-my-team/
+- Walkthrough Video link (downloads the video to your computer): https://drive.google.com/uc?id=1Ks4YAeSzi5gJHRMcHKoQC3nEO1yc_w4n&export=download
                
 ## Usage 
 Once the application has been installed, you can continue following the video walkthrough download attached above in the installation section. In your terminal, type "npm start" to trigger the prompts. Answer the questions by typing y/n for yes or no, use your up and down key arrows to move through lists, and type when you are prompted to do so. When you no longer wish to add anymore employees to your team, you will be notified that an HTML file has successfully been created. You can view this file code by clicking on the new file or view the styled cards by opening it in your browser.
