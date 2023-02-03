@@ -1,8 +1,7 @@
 {
   "main": "index.js",
   "directories": {
-    "lib": "lib",
-    "test": "test"
+    "lib": "lib"
   },
   "scripts": {
     "start": "node index.js",
@@ -20,5 +19,13 @@
   "name": "02-challenge",
   "description": "## Your Task",
   "version": "1.0.0",
-  "keywords": []
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadelineLowes/display-my-team.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MadelineLowes/display-my-team/issues"
+  },
+  "homepage": "https://github.com/MadelineLowes/display-my-team#readme"
 }
