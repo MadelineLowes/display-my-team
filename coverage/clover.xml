@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1675453475492" clover="3.2.0">
-  <project timestamp="1675453475492" name="All files">
-    <metrics statements="42" coveredstatements="30" conditionals="0" coveredconditionals="0" methods="17" coveredmethods="14" elements="59" coveredelements="44" complexity="0" loc="42" ncloc="42" packages="1" files="4" classes="4"/>
+<coverage generated="1675456168495" clover="3.2.0">
+  <project timestamp="1675456168495" name="All files">
+    <metrics statements="39" coveredstatements="30" conditionals="0" coveredconditionals="0" methods="17" coveredmethods="14" elements="56" coveredelements="44" complexity="0" loc="39" ncloc="39" packages="1" files="4" classes="4"/>
     <file name="employee.js" path="C:\Users\madel\bootcamp\challenges\module-10-challenge\display-my-team\lib\employee.js">
       <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
       <line num="3" count="4" type="stmt"/>
@@ -15,46 +15,43 @@
       <line num="22" count="4" type="stmt"/>
     </file>
     <file name="engineer.js" path="C:\Users\madel\bootcamp\challenges\module-10-challenge\display-my-team\lib\engineer.js">
-      <metrics statements="11" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3"/>
+      <metrics statements="10" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
       <line num="6" count="1" type="stmt"/>
-      <line num="7" count="1" type="stmt"/>
-      <line num="11" count="1" type="stmt"/>
-      <line num="15" count="1" type="stmt"/>
-      <line num="19" count="0" type="stmt"/>
-      <line num="42" count="0" type="stmt"/>
-      <line num="48" count="0" type="stmt"/>
-      <line num="49" count="0" type="stmt"/>
-      <line num="53" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="18" count="0" type="stmt"/>
+      <line num="41" count="0" type="stmt"/>
+      <line num="47" count="0" type="stmt"/>
+      <line num="51" count="1" type="stmt"/>
     </file>
     <file name="intern.js" path="C:\Users\madel\bootcamp\challenges\module-10-challenge\display-my-team\lib\intern.js">
-      <metrics statements="11" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3"/>
+      <metrics statements="10" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
       <line num="6" count="1" type="stmt"/>
-      <line num="7" count="1" type="stmt"/>
-      <line num="11" count="1" type="stmt"/>
-      <line num="15" count="1" type="stmt"/>
-      <line num="19" count="0" type="stmt"/>
-      <line num="42" count="0" type="stmt"/>
-      <line num="48" count="0" type="stmt"/>
-      <line num="49" count="0" type="stmt"/>
-      <line num="53" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="18" count="0" type="stmt"/>
+      <line num="41" count="0" type="stmt"/>
+      <line num="47" count="0" type="stmt"/>
+      <line num="51" count="1" type="stmt"/>
     </file>
     <file name="manager.js" path="C:\Users\madel\bootcamp\challenges\module-10-challenge\display-my-team\lib\manager.js">
-      <metrics statements="11" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3"/>
+      <metrics statements="10" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
       <line num="6" count="1" type="stmt"/>
-      <line num="7" count="1" type="stmt"/>
-      <line num="11" count="1" type="stmt"/>
-      <line num="15" count="1" type="stmt"/>
-      <line num="19" count="0" type="stmt"/>
-      <line num="42" count="0" type="stmt"/>
-      <line num="48" count="0" type="stmt"/>
-      <line num="49" count="0" type="stmt"/>
-      <line num="53" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="18" count="0" type="stmt"/>
+      <line num="41" count="0" type="stmt"/>
+      <line num="47" count="0" type="stmt"/>
+      <line num="51" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>

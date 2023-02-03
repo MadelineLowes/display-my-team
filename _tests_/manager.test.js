@@ -1,8 +1,6 @@
 const Manager = require('../lib/manager');
 const inquirer = require('inquirer');
 
-jest.mock('inquirer');
-
 const manager = new Manager('Lacy', 21, 'test@test.com', 1);
 
 describe('Manager constructor', () => {

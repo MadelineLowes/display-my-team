@@ -1,8 +1,6 @@
 const Intern = require('../lib/intern');
 const inquirer = require('inquirer');
 
-jest.mock('inquirer');
-
 const intern = new Intern('Lacy', 21, 'test@test.com', 'Western');
 
 describe('Intern constructor', () => {

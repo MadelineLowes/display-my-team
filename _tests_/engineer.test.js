@@ -1,8 +1,6 @@
 const Engineer = require('../lib/engineer');
 const inquirer = require('inquirer');
 
-jest.mock('inquirer');
-
 const engineer = new Engineer('Lacy', 21, 'test@test.com', 'LacyTest');
 
 describe('Engineer constructor', () => {
