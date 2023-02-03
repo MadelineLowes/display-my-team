@@ -37,5 +37,5 @@ https://opensource.org/licenses/MIT
 If you are interested in testing the code before proceeding with the application, please follow these steps: in your terminal, type "npm install --jest", and wait until all of the processes have completed successfully before typing "npm test". This should to ensure all of the files are functioning properly - you'll be notified of the status of the tests.
 
 ## Questions
-email: madeline.lowes@gmail.com
-github profile : https://github.com/MadelineLowes
+- email: madeline.lowes@gmail.com
+- github profile : https://github.com/MadelineLowes
