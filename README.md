@@ -25,9 +25,9 @@ Once the application has been installed, you can continue following the video wa
 Sample HTML file in browser: https://drive.google.com/file/d/1gZFwPSfsfXmQQqpVIRpzwbEu80eXpHG5/view?usp=sharing
 
 ## Credits 
-https://jestjs.io/docs/api
-https://nodejs.org/en/docs/
-https://www.npmjs.com/package/inquirer
+- https://jestjs.io/docs/api
+- https://nodejs.org/en/docs/
+- https://www.npmjs.com/package/inquirer
 
 ## License
 This project is covered by MIT licensing.
