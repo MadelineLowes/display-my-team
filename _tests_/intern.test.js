@@ -29,41 +29,4 @@ describe('Intern constructor', () => {
     test('should confirm that getRole method functions properly', () => {
         expect(intern.getRole()).toBe('Intern');
     });
-
-    // test('test user input using async/await', async () => {
-    //     const tom = await inquirer.prompt.mockResolvedValue({
-    //         firstName: 'Tom',
-    //         id: 3,
-    //         email: 'test@test.com',
-    //         school: 'Queens',
-    //     });
-
-    //     const val = new Intern(tom);
-    //     expect(val.firstName).toBe('Tom');
-    //     expect(val.id).toBe(3);
-    //     expect(val.email).toBe('test@test.com');
-    //     expect(val.school).toBe('Queens');
-    //     expect(inquirer.prompt).toHaveBeenCalledWith([
-    //         {
-    //             type: 'input',
-    //             message: "What is this employee's name?",
-    //             name: 'firstName',
-    //         },
-    //         {
-    //             type: 'input',
-    //             message: `What is their employee ID?`,
-    //             name: 'id',
-    //         },
-    //         {
-    //             type: 'input',
-    //             message: `What is their email?`,
-    //             name: 'email',
-    //         },
-    //         {
-    //             type: 'input',
-    //             message: `What school do they attend?`,
-    //             name: 'school',
-    //         },
-    //     ]);
-    // });
 });
