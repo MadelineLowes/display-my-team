@@ -21,7 +21,9 @@ View the video walkthrough download attached below. Steps: follow the link below
                
 ## Usage 
 Once the application has been installed, you can continue following the video walkthrough download attached above in the installation section. In your terminal, type "npm start" to trigger the prompts. Answer the questions by typing y/n for yes or no, use your up and down key arrows to move through lists, and type when you are prompted to do so. When you no longer wish to add anymore employees to your team, you will be notified that an HTML file has successfully been created. You can view this file code by clicking on the new file or view the styled cards by opening it in your browser.
-                
+
+Sample HTML file in browser: https://drive.google.com/file/d/1gZFwPSfsfXmQQqpVIRpzwbEu80eXpHG5/view?usp=sharing
+
 ## Credits 
 https://jestjs.io/docs/api
 https://nodejs.org/en/docs/
