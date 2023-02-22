@@ -2,7 +2,7 @@
 (https://img.shields.io/badge/License-MIT-yellow.svg)
   
 ## Description 
-This application is build using Node.js and runs in the command-line. It is intended to be used for employers to input information about their teams to help display a summary of each employee. Once the information has been inputted - using inquirer in the terminal - an HTML file will automattically be created, which will be styled when it's opened in the browser.
+This application is built using Node.js and runs in the command-line. It is intended to be used for employers to input information about their teams to help display a summary of each employee. Once the information has been inputted - using inquirer in the terminal - an HTML file will automattically be created, which will be styled when it's opened in the browser.
 
 ## Table of Contents
 - [Description](#description)
