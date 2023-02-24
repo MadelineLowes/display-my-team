@@ -36,6 +36,10 @@ Users can follow the video walkthrough attached below or the steps listed.
   ```sh
   git clone git@github.com:MadelineLowes/display-my-team.git
   ```
+- Navigate into cloned repo
+  ```sh
+  cd display-my-team
+  ```
 - Install dependencies
   ```sh
   npm install
