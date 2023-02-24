@@ -74,7 +74,7 @@ Users can follow the video walkthrough attached below or the steps listed.
 - The user can continue to add members to their team until they are satisfied, then when they are asked if they want to add another employee to their team, type "n" or "No"
 - A message will appear saying "index.html was created successfully" & an HTML file will automatically be generated based on the information they've inputted, which the user can open in a browser to view the formatted team cards
 
-Walk-through video:
+Walk-through video: https://drive.google.com/file/d/1C2V2pq9S2uTqQhF9s5GMHOLl6wdXC6-_/view
 
 ## Credits
 
