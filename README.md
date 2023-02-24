@@ -15,6 +15,7 @@ It is intended to be used for employers to input information about their teams t
 
 - [Description](#description)
 - [Getting Started](#getting_started)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
@@ -82,7 +83,7 @@ Walk-through video:
 This project is covered by MIT licensing.
 https://opensource.org/licenses/MIT
 
-## Tests
+## Test
 
 If you are interested in testing the code before proceeding with the application, please follow these steps: in your terminal, type "npm install --jest", and wait until all of the processes have completed successfully before typing "npm test". This should to ensure all of the files are functioning properly - you'll be notified of the status of the tests.
 - Install jest package for testing
