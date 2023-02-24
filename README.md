@@ -32,44 +32,62 @@ It is intended to be used for employers to input information about their teams t
 ## Installation
 
 Users can follow the video walkthrough attached below or the steps listed.
+
 - Clone the repo
+
   ```sh
   git clone git@github.com:MadelineLowes/display-my-team.git
   ```
+  
 - Navigate into cloned repo
+
   ```sh
   cd display-my-team
   ```
+  
 - Install dependencies
+
   ```sh
   npm install
   ```
+  
 ## Usage
 
 Users can follow the video walkthrough attached below or the steps listed.
+
 - Start/restart the app
+
   ```sh
   npm start
   ```
+  
 - Add an employee by typing "y" or "Yes" and follow the prompts
+
   ```sh
   "What is this employee's position?" // input "Manager", "Engineer", "Intern", or "Other"
   "What is this employee's name?" // input value
   "What is their employee ID?" // input numerical value
   "What is their email" // input email
   ```
+  
 - If user selects "Manager", follow the prompts
+
   ```sh
   "What is their email" // input email
   ```
+  
 - If user selects "Engineer", follow the prompts
+
   ```sh
   "What is their GitHub username" // input GitHub username
   ```
+  
 - If user selects "Intern", follow the prompts
+
   ```sh
   "What school do they attend?" // input school name
   ```
+  
 - If user selects "Other", the employee will be added as an "Employee" & return to the main menu
 - The user can continue to add members to their team until they are satisfied, then when they are asked if they want to add another employee to their team, type "n" or "No"
 - A message will appear saying "index.html was created successfully" & an HTML file will automatically be generated based on the information they've inputted, which the user can open in a browser to view the formatted team cards
@@ -90,17 +108,22 @@ https://opensource.org/licenses/MIT
 ## Test
 
 If you are interested in testing the code before proceeding with the application, please follow these steps: in your terminal, type "npm install --jest", and wait until all of the processes have completed successfully before typing "npm test". This should to ensure all of the files are functioning properly - you'll be notified of the status of the tests.
+
 - Install jest package for testing
+
   ```sh
   npm install --jest
   ```
+  
 - Run the tests to ensure the app is functioning properly
+
   ```sh
   npm test
   ```
 ## Questions
 
 Madeline Lowes:
+
 - email: madeline.lowes@gmail.com
 - github profile: https://github.com/MadelineLowes
 
